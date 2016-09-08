@@ -1,7 +1,6 @@
 /*
 Written by Mariah Danielle Davis
 08/16/2016
-For use only to analyze coding abilities via Wingspan Engineering's Hiring team
 */
 
 #include <iostream>
